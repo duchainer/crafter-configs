@@ -30,7 +30,7 @@ awesomeWM needs you to move/symlink one of the files in awesome/settings/screens
 - **Config Repo:** https://gitlab.com/Erik.Lundstedt/dotconfigfiles 
 - **Operating System:** debian bullseye/sid
 - **Software:** doom-emacs, awesomeWM, kitty, zsh with oh-my and powerline, and some others i dont use a lot
-- **Keyboard:** swedish keyboard layout but I am not using the extra keys, I use alt-tab for some in-program things that might conflict when using a desktop enviroment as I bound super-tab to switch-window<<<<<<< patch-1
+- **Keyboard:** swedish keyboard layout but I am not using the extra keys, I use alt-tab for some in-program things that might conflict when using a desktop enviroment as I bound super-tab to switch-window.
 
 ### Kavin ([@kavin25](https://github.com/kavin25))
 
